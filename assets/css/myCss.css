@@ -1,0 +1,64 @@
+/* Transparent Navbar styles ------------------------- */
+.custom-navbar {
+    background-color: #46382f;
+    height: 50px;
+    border-bottom: 0px;
+    transition: background-color .5s ease 0s;
+}
+/*css for the pages*/
+
+.myclass {
+	font-size:28px;
+}
+
+.banner {
+	width: 100%;
+    height: auto;
+}
+
+p.cmmt {
+	font-size: 26px;
+}
+
+p.title {
+	font-size: 36px;
+	font-weight: bold;
+}
+
+img.movies {
+	float: left;
+	margin-right: 25px;
+}
+
+.info {
+	clear: left;
+}
+
+
+/* Sticky footer styles ------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+
+}
+
+
+
+.footer, .page-wrap:after {
+	height: 142px;
+}
+.footer {
+	background: black;
+}
+
+
+
+
+
+
+
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required . */

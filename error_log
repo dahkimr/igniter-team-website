@@ -1,0 +1,6 @@
+[25-Nov-2017 22:23:54 Etc/GMT] PHP Warning:  Unterminated comment starting line 40 in /home/sultavy3/public_html/dahee/application/config/config.php on line 40
+[25-Nov-2017 22:23:54 Etc/GMT] PHP Notice:  Undefined index: log_path in /home/sultavy3/public_html/dahee/system/core/Log.php on line 127
+[25-Nov-2017 22:23:54 Etc/GMT] PHP Notice:  Undefined index: log_path in /home/sultavy3/public_html/dahee/system/core/Log.php on line 127
+[25-Nov-2017 22:23:54 Etc/GMT] PHP Warning:  mkdir(): Invalid path in /home/sultavy3/public_html/dahee/system/core/Log.php on line 131
+[25-Nov-2017 22:23:54 Etc/GMT] PHP Notice:  Undefined index: log_threshold in /home/sultavy3/public_html/dahee/system/core/Log.php on line 138
+[25-Nov-2017 22:23:54 Etc/GMT] PHP Notice:  Undefined index: log_threshold in /home/sultavy3/public_html/dahee/system/core/Log.php on line 142
